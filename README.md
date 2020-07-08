@@ -2,12 +2,12 @@
 
 ## Description
 
-Pytorch code for training an image-caption retrieval model on the MS-COCO dataset. Based on the paper [ORDER-EMBEDDINGS OFIMAGES AND LANGUAGE](https://arxiv.org/pdf/1511.06361.pdf). The model can be trained with 2 approaches:
+Pytorch code for training an image-caption retrieval model on the MS-COCO dataset. Based on the paper [ORDER-EMBEDDINGS OF IMAGES AND LANGUAGE](https://arxiv.org/pdf/1511.06361.pdf). The model can be trained with 2 approaches:
 
 * Symmetric Distance(Cosine loss)
 * Ordered Distance
 
-Furthermore, the code is also capapble of fine-tuning the model using the VIST dataset.
+Furthermore, the code is also capable of fine-tuning the model using the VIST dataset.
 
 ## Details
 
