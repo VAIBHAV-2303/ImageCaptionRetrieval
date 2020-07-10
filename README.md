@@ -28,6 +28,10 @@ bar@foo$:~/ImageCaptionRetrieval/Symmetric embedding python3 eval.py
 ```
 Similarly, the code can be run in Order embedding directory and FineTune directory.
 
+## Performance
+
+A mean rank of 80 out of 5000 images for a given caption can be easily achieved by training this model.
+
 ## Datasets
 
 * [COCO](https://cocodataset.org/)
